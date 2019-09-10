@@ -1,0 +1,24 @@
+{
+  "name": "netcraft-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abenartzi/netcraft-HW.git"
+  },
+  "author": "Amir Ben Artzi (abenartzi@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abenartzi/netcraft-HW/issues"
+  },
+  "homepage": "https://github.com/abenartzi/netcraft-HW#readme",
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
